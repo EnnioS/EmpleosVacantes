@@ -1,7 +1,10 @@
 # EmpleosVacantes
 Sitio web para ingresar vacantes de empleo y solicitud de empleo
+
 Login que permiten visualizar las diferentes vista según el permiso y rol del usuario
+
 Data base en MYSQL
+
 ## DESARROLLO
 Desarrollado web con Java y Spring boot, interfaces Spring Data JPA
 Siguiendo el Patron MVC. Implemantación de capas de Controlador, Entidad (Modelo), Servicio y Repositorios (DAO)
